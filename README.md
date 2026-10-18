@@ -6,7 +6,7 @@ Brasília, DF. Em busca do primeiro estágio em TI ou Segurança da Informação
 ## Projeto em destaque
 
 **[pentest-juice-shop](https://github.com/yurisouza00716-cpu/pentest-juice-shop)**
-Primeiro pentest documentado, contra uma instância local do OWASP Juice Shop. Reconhecimento, enumeração, análise de impacto e recomendações de correção, com Nmap, curl e Metasploit.
+-Primeiro pentest documentado, contra uma instância local do OWASP Juice Shop. Reconhecimento, enumeração, análise de impacto e recomendações de correção, com Nmap, curl e Metasploit.
 
 ## O que estou estudando
 
